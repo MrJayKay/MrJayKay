@@ -1,4 +1,4 @@
-<!–– Welcome section  ––>
+<!– Welcome section  –>
 <h1 align="center">Hi, I'm JayKay</h1>
 <h3 align="center">A self taught developer, focused on webdev and AI</h3>
 
