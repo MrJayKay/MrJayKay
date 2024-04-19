@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjaykay" alt="mrjaykay" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tba" target="blank"><img src="https://img.shields.io/twitter/follow/tba?logo=twitter&style=for-the-badge" alt="tba" /></a> </p>
-
 - 🔭 I’m currently working on **My Personal Portfolio**
 
 - 🌱 I’m currently learning **Chinese language**
