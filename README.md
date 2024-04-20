@@ -1,10 +1,12 @@
   <!-- Welcome section -->
 <h1 align="center">Hi, I'm JayKay</h1>
 <h3 align="center">A self taught developer, focused on webdev and AI</h3>
+  <!-- Tagline section -->
+**`Just playing with the computer and seeing what I can make it do`**
 
 <!-- Welcome section -->
 <h3 align="left">About Jay Kay:</h3>
-<p align="left">Just playing with the computer and seeing what I can make it do </p>
+<p align="left">Born in Brighton, England but raised in the small historical town of Lewes. Like most children, I had a need to know how things worked and would often be taking odd electronics apart to see what was hiding inside. I started with the family computer which was a 486 running windows 95, but was told to stop taking it apart! It was shortly after I started to work at a local computer repair shop and devloped a deeper interest. Whilst working is was not only paid in actual money, but as a bonus the extremely nice owners would give me parts to start building my own computer! A pentium 2 running windows xp. Now I had my very own, powerful computer, I devlepoed a love for gaming and that took up a majorirty of my time and I never went back to taking all our household appliences apart. Fast forward to adulthood and the spark and interest has flooded back, and now I am on the journey to make up for lost time and learn day and night. I'm currently learning all that I can with the hope of transitioning into a software enigineering role in 2025. </p>
 
   <!-- Github stats section -->
 
