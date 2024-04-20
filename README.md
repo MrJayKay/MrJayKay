@@ -2,6 +2,10 @@
 <h1 align="center">Hi, I'm JayKay</h1>
 <h3 align="center">A self taught developer, focused on webdev and AI</h3>
 
+<!-- Welcome section -->
+<h3 align="left">About Jay Kay:</h3>
+<p align="left">Just playing with the computer and seeing what I can make it do </p>
+
   <!-- Github stats section -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjaykay&label=Profile%20views&color=0e75b6&style=flat" alt="mrjaykay" /> </p>
 
