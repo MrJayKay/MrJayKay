@@ -65,9 +65,9 @@
   <!-- What I'm doing section -->
 <h3 align="left">🚧What I'm doing</h3>
 
-- Learning data structures and algorithms 
+- Building a CRM using django
 
-- Preparing to enter the tech sector
+- studing Free Code Camp's front end developer course
   
 - Brushing up on my Chinese language
 
