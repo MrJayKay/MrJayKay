@@ -8,6 +8,7 @@
   <!-- About me section -->
 <h3 align="left">About me</h3>
 <p align="left"> I'm an aspiring fullstack developer with a few years of on and off experience. I am now pursuing a career in the tech industry and putting my efforts into daily fulltime study with the hopes of landing a job in 2025. I'm a born and bred Brit, but have been living in China for the past 6 years. I like bananas and coffee, somtimes at the same time. I'm looking forward to enhancing my skill set and working on real life projects with other devlopers in the not so far future. Happy coding! </p>
+<p>I Will update my social media one day</p>
 
  <!-- Connect with me section -->
 <h3 align="left">Connect with me</h3>
