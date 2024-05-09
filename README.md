@@ -68,7 +68,7 @@
 
 - Building a CRM using django
 
-- studying Free Code Camp's front end developer course
+- studying Free Code Camp's front end developer course (currently JS)
   
 - Brushing up on my Chinese language
 
