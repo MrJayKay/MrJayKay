@@ -69,7 +69,9 @@
 - Building a CRM using django
 
 - studying Free Code Camp's front end developer course (currently JS)
-  
+
+- Still learning new ways to make my GitHub profile look amazing 
+ 
 - Brushing up on my Chinese language
 
   <!-- What I've done -->
